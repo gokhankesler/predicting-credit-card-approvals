@@ -1,4 +1,4 @@
-Predicting Credit Card Approvals
+# Predicting Credit Card Approvals
  
 <div>
 
@@ -12,7 +12,7 @@ The dataset used in this project is the [Credit Card Approval dataset](http://ar
 
 </div>
 
-<section class="mfe-app-learn-hub-3hgi0y">
+<section>
 
 ## Project Tasks
 
